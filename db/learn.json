@@ -1,20 +1,38 @@
 [
     { 
-            "id":"3924792",
+            "id":"123456",
             "name":"Dr Lokesh",
-            "title":"Learn Sun Salutation Pose from",
-            "link":"https://youtu.be/RCM8LwXaoxg?si=BG-1bcleumHF6C9q"
+            "title":"Easy Pose (Sukhasana)",
+            "link":"vNyJuQuuMC8"
         },
         { 
-            "id":"3924792",
-            "name":"Dr Lokesh",
-            "title":"Learn Sun Salutation Pose from",
-            "link":"https://youtu.be/RCM8LwXaoxg?si=BG-1bcleumHF6C9q"
+            "id":"123457",
+            "name":"Dr Sandeep",
+            "title":"Standing Forward Fold Pose (Uttanasana)",
+            "link":"j7rKKpwdXNE"
         },
         { 
-            "id":"3924792",
-            "name":"Dr Lokesh",
-            "title":"Learn Sun Salutation Pose from",
-            "link":"https://youtu.be/RCM8LwXaoxg?si=BG-1bcleumHF6C9q"
+            "id":"123458",
+            "name":"Dr Aniesh",
+            "title":"Childs Pose (Balasana)",
+            "link":"AB3Y-4a3ZrU"
+        },
+        { 
+            "id":"123459",
+            "name":"Dr Charan",
+            "title":"Eagle Pose (Garudasana)",
+            "link":"Yzm3fA2HhkQ"
+        },
+        { 
+            "id":"123455",
+            "name":"Dr Puneeth",
+            "title":"Bridge Pose (Setu Bandha Sarvangasana)",
+            "link":"8T39OBNaNzU"
+        },
+        { 
+            "id":"123454",
+            "name":"Dr John",
+            "title":"Extended Triangle Pose (Utthita Trikonasana)",
+            "link":"klmBssEYkdU"
         }
 ]
